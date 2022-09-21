@@ -1,1 +1,1 @@
-This is an Instrution file.
+THIS IS AN INSTRUCTION FILE.
